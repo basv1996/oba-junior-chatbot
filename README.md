@@ -97,3 +97,4 @@ npm run dev
 - [Jody Lorist](https://github.com/jody29)
 
 ## © Licentie
+MIT
